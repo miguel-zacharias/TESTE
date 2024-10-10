@@ -1,2 +1,3 @@
 # TESTE
- Pasata para testes, envolvendo Git e GitHub.
+ Pasta para testes, envolvendo Git e GitHub.
+Eu amo a Camilla <3
